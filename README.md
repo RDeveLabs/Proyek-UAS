@@ -22,6 +22,8 @@ Proses pembuatan dan demo aplikasi dapat dilihat di YouTube: https://youtu.be/5W
 Python 100%
 
 ## Flowchart
+<p align="center"><a href="flowchart.webp" target="_blank"><img src="flowchart.webp" width="600" alt="Tampilan Awal"></a></p>
+
 
 ## Struktur dan peran tiap file
 1. Kalkulator.py  
